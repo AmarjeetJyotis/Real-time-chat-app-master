@@ -49,6 +49,8 @@ A fully responsive **real-time chat application** built using **HTML, CSS, JavaS
 **LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
 
 
+---
+
 ## 📂 Project Structure
 
 ```bash
