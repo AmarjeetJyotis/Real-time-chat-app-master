@@ -3,9 +3,9 @@ Real time chat app on web using Cloud Firestore.
 
 ![image](https://github.com/user-attachments/assets/e8bcc631-ada7-4a42-a42c-3ac5a081b1d1)
 
-
 Deployed on Netlify here: https://romantic-feynman-e009cc.netlify.app/
 
+---
 
 # 💬 Real-time Chat App
 
@@ -17,20 +17,20 @@ A fully responsive **real-time chat application** built using **HTML, CSS, JavaS
 
 ## 🚀 Features
 
-- 🔥 Real-time chat functionality with Firebase Cloud Firestore
-- 🧑‍🤝‍🧑 User sign-up and login pages
-- ✨ Clean and intuitive UI
-- 📱 Fully responsive design
-- 🌐 Hosted on Netlify for fast and free deployment
+- 🔥 Real-time chat functionality with Firebase Cloud Firestore  
+- 🧑‍🤝‍🧑 User sign-up and login pages  
+- ✨ Clean and intuitive UI  
+- 📱 Fully responsive design  
+- 🌐 Hosted on Netlify for fast and free deployment  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla JS)
-- **Backend (Database)**: Firebase Firestore (NoSQL database)
-- **Hosting**: Netlify
-- **Other Tools**: Firebase Authentication (if implemented), Live Server (for local testing)
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla JS)  
+- **Backend (Database)**: Firebase Firestore (NoSQL database)  
+- **Hosting**: Netlify  
+- **Other Tools**: Firebase Authentication (if implemented), Live Server (for local testing)  
 
 ---
 
@@ -86,22 +86,36 @@ const firebaseConfig = {
   messagingSenderId: "YOUR_SENDER_ID",
   appId: "YOUR_APP_ID"
 };
-📸 Screenshot
 
-🧑‍💻 Author
-Amarjeet Kumar
-GitHub: @AmarjeetJyotis
+
+needed
+
+🧑‍💻 AUTHOR
+- Name: Amarjeet Kumar
+- UID: 21BCS10768
+- Department: Computer Science & Engineering, Chandigarh University
+- Portfolio: https://amarjeetkr.vercel.app/
+- LinkTree: https://linktr.ee/AmarjeetKumarJyotish
+- GitHub: https://github.com/AmarjeetJyotis
+- LinkedIn: https://www.linkedin.com/in/amarjeet-jyotish/
+- GeeksforGeeks: https://www.geeksforgeeks.org/user/amarjeetjyotish/
+- LeetCode: https://leetcode.com/u/AmarjeetJyotish/
+
+
 
 📄 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License – see the LICENSE.md file for details.
 
-yaml
+Let me know if you want to:
+
+Add Firebase Auth setup details
+
+Include GIFs/screenshots hosted externally
+
+Customize for team collaboration or contribution guidelines
+
+pgsql
 Copy
 Edit
 
----
-
-Let me know if you want to:
-- Add Firebase Auth setup details.
-- Include GIFs/screenshots hosted externally.
-- Customize for team collaboration or contribution guidelines.
+✅ Just copy and paste this entire code into your `README.md` file — everything including your Author section
