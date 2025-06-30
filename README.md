@@ -34,6 +34,21 @@ A fully responsive **real-time chat application** built using **HTML, CSS, JavaS
 
 ---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
 ## 📂 Project Structure
 
 ```bash
@@ -89,19 +104,6 @@ const firebaseConfig = {
 
 
 needed
-
-🧑‍💻 AUTHOR
-- Name: Amarjeet Kumar
-- UID: 21BCS10768
-- Department: Computer Science & Engineering, Chandigarh University
-- Portfolio: https://amarjeetkr.vercel.app/
-- LinkTree: https://linktr.ee/AmarjeetKumarJyotish
-- GitHub: https://github.com/AmarjeetJyotis
-- LinkedIn: https://www.linkedin.com/in/amarjeet-jyotish/
-- GeeksforGeeks: https://www.geeksforgeeks.org/user/amarjeetjyotish/
-- LeetCode: https://leetcode.com/u/AmarjeetJyotish/
-
-
 
 📄 License
 This project is licensed under the MIT License – see the LICENSE.md file for details.
